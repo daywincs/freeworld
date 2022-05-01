@@ -1,6 +1,6 @@
 ﻿{
-    "name": "xrayheroku",
-    "description": "xrayheroku",
+    "name": "freeworld",
+    "description": "freeworld",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
